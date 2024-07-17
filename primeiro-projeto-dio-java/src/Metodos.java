@@ -18,7 +18,6 @@ public class Metodos {
     }
 
     private void metodoPrivado() { //Esse método não estará visível para outras classes
-
     }
 
     public void gravarCliente(String nome, String cpf, String numero) {
