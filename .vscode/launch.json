@@ -4,7 +4,55 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalTernaria",
+            "request": "launch",
+            "mainClass": "CondicionalTernaria",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalComposta",
+            "request": "launch",
+            "mainClass": "CondicionalComposta",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples",
+            "request": "launch",
+            "mainClass": "CondicionalSimples",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -16,9 +64,13 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["Guilherme", "Valerio", "19", "1.80"],
+            "args": [
+                "Guilherme",
+                "Valerio",
+                "19",
+                "1.80"
+            ],
             "projectName": "projetoJavaDIO_60dbc8f6"
-            
         },
         {
             "type": "java",
