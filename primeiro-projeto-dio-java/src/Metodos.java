@@ -2,6 +2,7 @@ public class Metodos {
     public static void main(String[] args) {
         String cliente = "Dados";
         cliente = new String("Dados");
+        System.out.println(cliente);
     }
 
     public double somar(int n1, int n2){
@@ -17,8 +18,8 @@ public class Metodos {
         return 0;
     }
 
-    private void metodoPrivado() { //Esse método não estará visível para outras classes
-    }
+    //private void metodoPrivado() { //Esse método não estará visível para outras classes
+    //}
 
     public void gravarCliente(String nome, String cpf, String numero) {
         //Esse método tem a finalidade de gravar informações de um cliente
