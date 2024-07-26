@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "DoWhile",
             "request": "launch",
             "mainClass": "DoWhile",
