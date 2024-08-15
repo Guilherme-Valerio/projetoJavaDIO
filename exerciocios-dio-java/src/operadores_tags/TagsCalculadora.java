@@ -1,3 +1,4 @@
+package operadores_tags;
 /**
 * <h1>TagsCalculadora</h1>
 * A TagsCalculadora realiza operações matemáticas entre números inteiros

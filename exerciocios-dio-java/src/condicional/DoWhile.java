@@ -1,3 +1,4 @@
+package condicional;
 import java.util.Random;
 public class DoWhile {
 	public static void main(String[] args) {

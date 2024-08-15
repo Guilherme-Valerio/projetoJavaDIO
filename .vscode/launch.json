@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Livro",
+            "request": "launch",
+            "mainClass": "compare.Livro",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CarrinhoCompras2",
+            "request": "launch",
+            "mainClass": "lista.carrinho_de_compras.CarrinhoCompras2",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "Item2",
+            "request": "launch",
+            "mainClass": "lista.carrinho_de_compras.Item2",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CarrinhoCompras",
+            "request": "launch",
+            "mainClass": "lista.carrinho_de_compras.CarrinhoCompras",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefas",
+            "request": "launch",
+            "mainClass": "lista.lista_de_tarefas.ListaTarefas",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepExemplo",
             "request": "launch",
             "mainClass": "FormatadorCepExemplo",

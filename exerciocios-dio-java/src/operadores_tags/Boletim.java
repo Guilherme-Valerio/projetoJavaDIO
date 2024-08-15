@@ -1,3 +1,4 @@
+package operadores_tags;
 public class Boletim {
     public static void main(String[] args) {
         int mediaFinal = 5;

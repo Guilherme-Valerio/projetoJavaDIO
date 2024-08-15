@@ -1,3 +1,4 @@
+package condicional;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class While {

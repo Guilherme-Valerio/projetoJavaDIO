@@ -1,3 +1,4 @@
+package condicional;
 public class CondicionalTernaria {
     public static void main(String[]args){
         int nota = 5;
