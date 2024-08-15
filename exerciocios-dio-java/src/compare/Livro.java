@@ -4,9 +4,9 @@ import java.util.Comparator;
 
 // Uma classe 'Livro' que implementa Comparable
 class Livro implements Comparable<Livro> {
-	private String titulo;
-	private String autor;
-	private int ano;
+	private final String titulo;
+	private final String autor;
+	private final int ano;
 
 	// Construtor
 	public Livro(String ti, String au, int an) {
@@ -16,6 +16,7 @@ class Livro implements Comparable<Livro> {
 	}
 
 	// Usado para ordenar livros por titulo
+        @Override
 	public int compareTo(Livro l) {
 		return titulo.compareTo(l.titulo);
 	}
