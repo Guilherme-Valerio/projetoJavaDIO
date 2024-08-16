@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoNumeros",
+            "request": "launch",
+            "mainClass": "lista.Ordenacao.OrdenacaoNumeros",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoPessoas",
+            "request": "launch",
+            "mainClass": "lista.Ordenacao.OrdenacaoPessoas",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "lista.Pesquisa.CatalogoLivros",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "Livro",
             "request": "launch",
             "mainClass": "compare.Livro",
