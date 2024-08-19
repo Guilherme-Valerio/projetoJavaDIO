@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalavrasUnicas",
+            "request": "launch",
+            "mainClass": "set.PalavrasUnicas",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoNumeros",
             "request": "launch",
             "mainClass": "lista.Ordenacao.OrdenacaoNumeros",

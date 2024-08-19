@@ -38,7 +38,6 @@ public class ConjuntoConvidados {
     } else {
       throw new RuntimeException("O conjunto está vazio");
     }
-      
   }
 
   
