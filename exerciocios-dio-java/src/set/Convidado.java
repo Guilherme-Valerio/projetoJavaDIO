@@ -10,8 +10,7 @@ public class Convidado {
         this.nome = nome;
         this.codigoConvite = codigoConvite;
     }
-
-    public String getNome() {
+        public String getNome() {
         return nome;
     }
 

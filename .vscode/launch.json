@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "set.AgendaContatos",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "PalavrasUnicas",
             "request": "launch",
             "mainClass": "set.PalavrasUnicas",
