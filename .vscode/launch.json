@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EstoqueProdutos",
+            "request": "launch",
+            "mainClass": "map.EstoqueProdutos",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatosMap",
+            "request": "launch",
+            "mainClass": "map.AgendaContatosMap",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "AgendaContatos",
             "request": "launch",
             "mainClass": "set.AgendaContatos",
