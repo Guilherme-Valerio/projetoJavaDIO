@@ -10,7 +10,7 @@ public class EstoqueProdutos {
     }
     
     public void adicionarProduto(long cod, String nome, int quantidade, double preco){
-        estoqueProdutoMap.put(cod, new Produto(nome, preco, quantidade));;
+        estoqueProdutoMap.put(cod, new Produto(nome, preco, quantidade));
     }
 
     public void exibirProdutos() {

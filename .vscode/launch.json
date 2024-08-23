@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LivrariaOnline",
+            "request": "launch",
+            "mainClass": "map.LivrariaOnline",
+            "projectName": "projetoJavaDIO_60dbc8f6"
+        },
+        {
+            "type": "java",
             "name": "AgendaEvento",
             "request": "launch",
             "mainClass": "map.AgendaEvento",

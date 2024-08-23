@@ -4,9 +4,9 @@ import java.util.Comparator;
 import java.util.Map;
 
 public class Livro {
-    private String titulo;
-    private String autor;
-    private double preco;
+    private final String titulo;
+    private final String autor;
+    private final double preco;
     
     public Livro(String titulo, String autor, double preco) {
         this.titulo = titulo;
@@ -28,7 +28,7 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Livro [ titulo:" + titulo + ", autor:" + autor + ", preco:" + preco + " ]";
+        return " Livro [titulo: " + titulo + ", autor: " + autor + ", preco: " + preco + "] ";
     }
 }
 
